@@ -1,0 +1,6 @@
+name = "random-doggos"
+type = "javascript"
+account_id = "3104581d6d59f054a7ab3d6027445d49"
+workers_dev = false
+route = "*randomdoggos.shaleena.dev/*"
+zone_id = "4c789d0cca3e8aa7bf65841a47e498fe"
